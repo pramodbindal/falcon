@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1045090456337",
+    "firebase_url": "https://falcon-2fc9b.firebaseio.com",
+    "project_id": "falcon-2fc9b",
+    "storage_bucket": "falcon-2fc9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045090456337:android:99059306b6567b0d",
+        "android_client_info": {
+          "package_name": "com.pramodbindal.falcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045090456337-lbfrrpefolob6f5nbuvdvj64rf5vlnqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf4qDb91FtIM9OtY3ea1DuUIj06ox9WNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045090456337:android:7061aa5a13df2c63",
+        "android_client_info": {
+          "package_name": "com.pramodbindal.localshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045090456337-lbfrrpefolob6f5nbuvdvj64rf5vlnqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf4qDb91FtIM9OtY3ea1DuUIj06ox9WNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

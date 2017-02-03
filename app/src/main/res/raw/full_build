@@ -1,0 +1,23 @@
+--Create Table TXN
+CREATE TABLE  IF NOT EXISTS TXN (
+            ID INTEGER PRIMARY KEY AUTOINCREMENT,
+            CUSTOMER_ID INTEGER NOT NULL,
+            COMMENT TEXT ,
+            TRANSACTION_TYPE TEXT,
+            TXN_DATE INTEGER,
+            AMOUNT INTEGER,
+            IS_DELETED INTEGER DEFAULT 0);
+
+--Create Table Customer
+CREATE TABLE  IF NOT EXISTS CUSTOMER (
+            ID INTEGER PRIMARY KEY AUTOINCREMENT,
+            NAME TEXT ,
+            MOBILE TEXT,
+            ADDRESS TEXT,
+            IS_DELETED INTEGER DEFAULT 0);
+
+
+--Create Table Customer
+CREATE TABLE  IF NOT EXISTS ATTRIBUTE (
+            NAME TEXT PRIMARY KEY NOT NULL ,
+            VALUE TEXT);

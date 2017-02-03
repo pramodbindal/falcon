@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="record_saved">लेनदेन सफलतापूर्वक सहेजा गया है</string>
+    <string name="permissions_required">अनुमतियां एप काम करने के लिए आवश्यक हैं</string>
+
+</resources>

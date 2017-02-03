@@ -1,0 +1,4 @@
+--Create Table Customer
+CREATE TABLE  IF NOT EXISTS ATTRIBUTE (
+            NAME TEXT PRIMARY KEY NOT NULL ,
+            VALUE TEXT);
